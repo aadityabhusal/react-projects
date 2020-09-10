@@ -9,7 +9,7 @@
 /coverage
 
 # production
-/build
+/youtube/build
 
 # misc
 .DS_Store
